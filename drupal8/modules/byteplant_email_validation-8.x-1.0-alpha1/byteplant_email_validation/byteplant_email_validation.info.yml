@@ -1,0 +1,11 @@
+name: byteplant Email validations
+type: module
+description: 'Email validations features.'
+# core: 8.x
+configure: byteplant_email_validation.setting_form
+
+# Information added by Drupal.org packaging script on 2017-09-17
+version: '8.x-1.0-alpha1'
+core: '8.x'
+project: 'byteplant_email_validation'
+datestamp: 1505689150
